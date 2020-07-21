@@ -14,7 +14,7 @@
 
 ## 学习路线
 
-[Java技术栈(脑图)]()
+![Java技术栈(脑图)](https://lishaojie1993.gitee.io/demo/Java.png)
 
 [Spring.xmind](https://lishaojie1993.gitee.io/demo/Spring.png)
 
