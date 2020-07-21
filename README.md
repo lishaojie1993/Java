@@ -26,6 +26,14 @@
 
 [IntelliJ IDEA-2020.1.2.dmg](https://pan.baidu.com/share/init?surl=dhXdQDYRMKOUxJMbsHnBXw)   (提取码:s3ps)
 
+## 常用网址收藏
+
+[Linux命令搜索](https://wangchujiang.com/linux-command/)
+
+[在线工具](https://tool.lu/)
+
+[数据结构可视化](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
 ## 电子书推荐
 
 [编程书籍分享](https://mp.weixin.qq.com/s/KtjnR_5ePJvXzciydEyDNA)
