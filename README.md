@@ -1,10 +1,8 @@
-## 												<font color=blue>持续更新中...</font>
+## <span style="display:block;text-align:center;color:orangered;">持续更新中...</span>
 
 <center>
 <a href="https://mp.weixin.qq.com/s/l6X7doO8dq81BIdBMsBsCA"><img border="0" src="https://img.shields.io/badge/公众号-我爱分享君-green"/></a><a href="https://lishaojie1993.gitee.io">     <img border="0" src="https://img.shields.io/badge/博客-睡到自然醒-red"/></a><a href="https://space.bilibili.com/476834809">     <img border="0" src="https://img.shields.io/badge/哔哩哔哩-爱喝牛奶的方雪冷少-9cf"/></a>
 </center>
-
-
 
 ------
 
