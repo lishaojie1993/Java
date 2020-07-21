@@ -50,4 +50,4 @@
 
 [个人网站如何被百度收录](https://mp.weixin.qq.com/s/gR9tSB7QpJdpGTuzjyR3oQ)
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggyutbd65sj30r60fowfd.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggze9hwi4ij30r60fodgi.jpg)
