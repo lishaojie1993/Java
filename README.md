@@ -24,6 +24,8 @@
 
 [超棒的Redis客户端](https://mp.weixin.qq.com/s/Y-M9Aq1M8xhPFnsviDNDuQ)
 
+[IntelliJ IDEA-2020.1.2.dmg](https://pan.baidu.com/share/init?surl=dhXdQDYRMKOUxJMbsHnBXw)   (提取码:s3ps)
+
 ## 电子书推荐
 
 [编程书籍分享](https://mp.weixin.qq.com/s/KtjnR_5ePJvXzciydEyDNA)
@@ -31,8 +33,6 @@
 ## 应用分享
 
 [macOS实用App推荐](https://mp.weixin.qq.com/s/hPqTcu-UjFG6yEeIbcSMGg)
-
-IntelliJ IDEA-2020.1.dmg
 
 [超清壁纸推荐](https://mp.weixin.qq.com/s/2iNcQZ9Gu685NZEs3-fqLQ)
 
