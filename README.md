@@ -28,13 +28,15 @@
 
 [链表逆序算法](https://lishaojie1993.gitee.io/2019/09/18/LinkedList-Reverse/)
 
-## 编程工具分享
+## 编程工具
 
 [超棒的Redis客户端](https://mp.weixin.qq.com/s/Y-M9Aq1M8xhPFnsviDNDuQ)
 
 [IntelliJ IDEA-2020.1.2.dmg](https://pan.baidu.com/share/init?surl=dhXdQDYRMKOUxJMbsHnBXw)   (提取码:s3ps)
 
-## 常用网址收藏
+## 常用网址
+
+[网址导航](https://lishaojie1993.gitee.io/guide/cn/index.html)
 
 [Linux命令搜索](https://wangchujiang.com/linux-command/)
 
@@ -61,5 +63,7 @@
 [个人网站如何被百度收录](https://mp.weixin.qq.com/s/gR9tSB7QpJdpGTuzjyR3oQ)
 
 [便捷开发双刃剑-Lombok](https://lishaojie1993.gitee.io/2020/02/11/lombok/)
+
+[CentOS 7 双重防火墙设置](https://lishaojie1993.gitee.io/2020/01/17/firewall/)
 
 ![](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggze9hwi4ij30r60fodgi.jpg)
