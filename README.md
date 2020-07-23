@@ -24,7 +24,7 @@
 
 ## 编程工具
 
-[超棒的Redis客户端](https://mp.weixin.qq.com/s/Y-M9Aq1M8xhPFnsviDNDuQ)
+[![超棒的Redis客户端](https://imgkr.cn-bj.ufileos.com/5a820626-482d-4c2c-94aa-6f77c4ff9e21.gif)](https://mp.weixin.qq.com/s/Y-M9Aq1M8xhPFnsviDNDuQ)
 
 [IntelliJ IDEA 2020.1.dmg](https://pan.baidu.com/s/1SGGiWUPzKD23EUoCvNfFGQ)（密码: ehhk）
 
