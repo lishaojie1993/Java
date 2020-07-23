@@ -50,6 +50,8 @@
 
 [macOS实用App推荐](https://mp.weixin.qq.com/s/hPqTcu-UjFG6yEeIbcSMGg)
 
+[万能浏览器插件-Tampermonkey](https://lishaojie1993.gitee.io/2020/01/10/Tampermonkey/)
+
 [超清壁纸推荐](https://mp.weixin.qq.com/s/2iNcQZ9Gu685NZEs3-fqLQ)
 
 [Mac屏保分享](https://mp.weixin.qq.com/s/7vbDGS3xX57SuH1S0LdLew)
@@ -57,5 +59,7 @@
 ## 经验杂谈
 
 [个人网站如何被百度收录](https://mp.weixin.qq.com/s/gR9tSB7QpJdpGTuzjyR3oQ)
+
+[便捷开发双刃剑-Lombok](https://lishaojie1993.gitee.io/2020/02/11/lombok/)
 
 ![](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggze9hwi4ij30r60fodgi.jpg)
