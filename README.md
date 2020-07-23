@@ -30,6 +30,10 @@
 
 [Navicat_Premium_15.0.12.dmg](https://pan.baidu.com/s/184ZBURXKiav0gfsfv8QrTA)（密码: f5f3）
 
+[Visual_Studio_Code_1.47.2.dmg](https://pan.baidu.com/s/1AojkS93WlgsaG69SEwKNQA)（密码: wf3w）
+
+[Charles 4.5.6.dmg](https://pan.baidu.com/s/1hsluefo8i5p9VdIlqo14aA)（密码: gvnc）
+
 [SnippetsLab 1.9.2.dmg](https://pan.baidu.com/s/1_Rqov2cVuVjnkoY_T0ZD_A)（密码: nimh）
 
 [SecureCRT_8.7.2.dmg](https://pan.baidu.com/s/1GPHvMNzU9_J4-f3Se2xq6w)（密码: jfnn）
