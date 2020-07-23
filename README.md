@@ -32,7 +32,7 @@
 
 [超棒的Redis客户端](https://mp.weixin.qq.com/s/Y-M9Aq1M8xhPFnsviDNDuQ)
 
-[IntelliJ IDEA-2020.1.2.dmg](https://pan.baidu.com/share/init?surl=dhXdQDYRMKOUxJMbsHnBXw)   (密码: s3ps)
+[IntelliJ IDEA 2020.1.dmg](https://pan.baidu.com/s/1SGGiWUPzKD23EUoCvNfFGQ)（密码: ehhk）
 
 [Navicat_Premium_15.0.12.dmg](https://pan.baidu.com/s/184ZBURXKiav0gfsfv8QrTA)（密码: f5f3）
 
@@ -67,6 +67,8 @@
 [macOS实用App推荐](https://mp.weixin.qq.com/s/hPqTcu-UjFG6yEeIbcSMGg)
 
 [万能浏览器插件-Tampermonkey](https://lishaojie1993.gitee.io/2020/01/10/Tampermonkey/)
+
+[科学上网推荐-Ghelper](https://lishaojie1993.gitee.io/2020/01/10/ghelper/)
 
 [超清壁纸推荐](https://mp.weixin.qq.com/s/2iNcQZ9Gu685NZEs3-fqLQ)
 
