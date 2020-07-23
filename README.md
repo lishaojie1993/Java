@@ -20,7 +20,7 @@
 
 [Spring.xmind](https://lishaojie1993.gitee.io/demo/Spring.png)
 
-[Redis.xmind](https://tva1.sinaimg.cn/large/007S8ZIlgy1gh0mksxth6j30u03etwof.jpg)
+[Redis.xmind](https://lishaojie1993.gitee.io/demo/Redis.jpg)
 
 ## 算法
 
