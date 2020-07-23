@@ -20,7 +20,7 @@
 
 [Spring.xmind](https://lishaojie1993.gitee.io/demo/Spring.png)
 
-[Redis.xmind](https://lishaojie1993.gitee.io/demo/Redis.jpg)
+[Redis.xmind](https://lishaojie1993.gitee.io/demo/Redis.png)
 
 ## 编程工具
 
