@@ -32,7 +32,21 @@
 
 [超棒的Redis客户端](https://mp.weixin.qq.com/s/Y-M9Aq1M8xhPFnsviDNDuQ)
 
-[IntelliJ IDEA-2020.1.2.dmg](https://pan.baidu.com/share/init?surl=dhXdQDYRMKOUxJMbsHnBXw)   (提取码:s3ps)
+[IntelliJ IDEA-2020.1.2.dmg](https://pan.baidu.com/share/init?surl=dhXdQDYRMKOUxJMbsHnBXw)   (密码: s3ps)
+
+[Navicat_Premium_15.0.12.dmg](https://pan.baidu.com/s/184ZBURXKiav0gfsfv8QrTA)（密码: f5f3）
+
+[SnippetsLab 1.9.2.dmg](https://pan.baidu.com/s/1_Rqov2cVuVjnkoY_T0ZD_A)（密码: nimh）
+
+[SecureCRT_8.7.2.dmg](https://pan.baidu.com/s/1GPHvMNzU9_J4-f3Se2xq6w)（密码: jfnn）
+
+[Transmit_5.6.3.dmg](https://pan.baidu.com/s/1SFjS6inGiqbADrq5as0p7g)（密码: avud）
+
+[SwitchHosts-macOS-x64_v3.3.12.5349.zip](https://pan.baidu.com/s/13D6U-6ITPBxM5M9AHNA6tg)（密码: 1k7r）
+
+[Beyond_Compare_4.3.4_(24657).dmg](https://pan.baidu.com/s/1T5vDw2HHfAjoFaBXVu0SaQ)（密码: p4re）
+
+[Dash_5.1.4.dmg](https://pan.baidu.com/s/1Wq8HQ0z3BpsxujPBKzG-6w)（密码: 9ovt）
 
 ## 常用网址
 
