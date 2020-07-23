@@ -20,6 +20,14 @@
 
 [Spring.xmind](https://lishaojie1993.gitee.io/demo/Spring.png)
 
+[Redis.xmind](https://tva1.sinaimg.cn/large/007S8ZIlgy1gh0mksxth6j30u03etwof.jpg)
+
+## 算法
+
+[八大排序算法](https://lishaojie1993.gitee.io/2019/09/16/Sort/)
+
+[链表逆序算法](https://lishaojie1993.gitee.io/2019/09/18/LinkedList-Reverse/)
+
 ## 编程工具分享
 
 [超棒的Redis客户端](https://mp.weixin.qq.com/s/Y-M9Aq1M8xhPFnsviDNDuQ)
