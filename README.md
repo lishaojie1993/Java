@@ -64,7 +64,7 @@
 
 ## 算法与设计模式
 
-[![网址导航](https://tva1.sinaimg.cn/large/007S8ZIlgy1gh22lu0kmvj30u00csjrh.jpg)](https://lishaojie1993.gitee.io)
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gh22lu0kmvj30u00csjrh.jpg)
 
 [八大排序算法](https://lishaojie1993.gitee.io/2019/09/16/Sort/)
 
