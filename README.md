@@ -26,7 +26,7 @@
 
 ## 编程工具
 
-[![超棒的Redis客户端](https://imgkr.cn-bj.ufileos.com/5a820626-482d-4c2c-94aa-6f77c4ff9e21.gif)](https://mp.weixin.qq.com/s/Y-M9Aq1M8xhPFnsviDNDuQ)
+[![超棒的Redis客户端](https://tva1.sinaimg.cn/large/007S8ZIlly1gh2snkq7y4g30dc09fn2i.gif)](https://mp.weixin.qq.com/s/Y-M9Aq1M8xhPFnsviDNDuQ)
 
 [IntelliJ IDEA 2020.1.dmg](https://pan.baidu.com/s/1SGGiWUPzKD23EUoCvNfFGQ)（密码: ehhk）
 
@@ -82,7 +82,7 @@
 
 ## 应用分享
 
-[![macOS实用App推荐](https://tva1.sinaimg.cn/large/007S8ZIlgy1gh23oko0s8g30m80gogqb.gif)](https://mp.weixin.qq.com/s/hPqTcu-UjFG6yEeIbcSMGg)
+[![macOS实用App推荐](https://tva1.sinaimg.cn/large/007S8ZIlly1gh2skedc31g30dc0a0acn.gif)](https://mp.weixin.qq.com/s/hPqTcu-UjFG6yEeIbcSMGg)
 
 [万能浏览器插件-Tampermonkey](https://lishaojie1993.gitee.io/2020/01/10/Tampermonkey/)
 
@@ -100,4 +100,4 @@
 
 [CentOS 7 双重防火墙设置](https://lishaojie1993.gitee.io/2020/01/17/firewall/)
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggze9hwi4ij30r60fodgi.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1gh2sq0kxu7j30dc07pgn2.jpg)
