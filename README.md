@@ -50,7 +50,7 @@
 
 ## 网址收藏
 
-[![网址导航](https://lishaojie1993.gitee.io/demo/daohang.jpg)](https://lishaojie1993.gitee.io/guide/cn/index.html)
+[![网址导航](https://tva1.sinaimg.cn/large/007S8ZIlgy1gh226q9td3j30dw08z74x.jpg)](https://lishaojie1993.gitee.io/guide/cn/index.html)
 
 [Linux命令搜索](https://wangchujiang.com/linux-command/)
 
