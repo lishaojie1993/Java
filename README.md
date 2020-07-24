@@ -70,11 +70,15 @@
 
 ## 设计模式
 
+[![几何星空连线背景-canvas](https://tva1.sinaimg.cn/large/007S8ZIlly1gh2svldjk9g30dc0a0jv6.gif)](https://lishaojie1993.gitee.io/2020/02/05/star/)
+
 [单例模式](https://lishaojie1993.gitee.io/2020/01/18/singleton/)
 
 [工厂模式](https://lishaojie1993.gitee.io/2019/12/02/factory/)
 
 [建造者模式](https://lishaojie1993.gitee.io/2019/12/17/builder/)
+
+[原型模式](https://lishaojie1993.gitee.io/2020/03/08/prototype/)
 
 [适配器模式](https://lishaojie1993.gitee.io/2019/12/15/adapter/)
 
