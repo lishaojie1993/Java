@@ -62,13 +62,13 @@
 
 [编程书籍分享](https://mp.weixin.qq.com/s/KtjnR_5ePJvXzciydEyDNA)
 
-## 算法与设计模式
-
-![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gh22lu0kmvj30u00csjrh.jpg)
+## 算法
 
 [八大排序算法](https://lishaojie1993.gitee.io/2019/09/16/Sort/)
 
 [链表逆序算法](https://lishaojie1993.gitee.io/2019/09/18/LinkedList-Reverse/)
+
+## 设计模式
 
 [单例模式](https://lishaojie1993.gitee.io/2020/01/18/singleton/)
 
