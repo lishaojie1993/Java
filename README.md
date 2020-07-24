@@ -50,7 +50,7 @@
 
 ## 网址收藏
 
-[网址导航](https://lishaojie1993.gitee.io/guide/cn/index.html)
+[![网址导航](https://tva1.sinaimg.cn/large/007S8ZIlgy1gh23egx2ztg30c809648y.gif)](https://lishaojie1993.gitee.io/guide/cn/index.html)
 
 [Linux命令搜索](https://wangchujiang.com/linux-command/)
 
