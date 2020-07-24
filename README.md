@@ -82,7 +82,7 @@
 
 ## 应用分享
 
-[macOS实用App推荐](https://mp.weixin.qq.com/s/hPqTcu-UjFG6yEeIbcSMGg)
+[![macOS实用App推荐](https://tva1.sinaimg.cn/large/007S8ZIlgy1gh23oko0s8g30m80gogqb.gif)](https://mp.weixin.qq.com/s/hPqTcu-UjFG6yEeIbcSMGg)
 
 [万能浏览器插件-Tampermonkey](https://lishaojie1993.gitee.io/2020/01/10/Tampermonkey/)
 
