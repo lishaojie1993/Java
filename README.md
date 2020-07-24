@@ -26,7 +26,7 @@
 
 ## 编程工具
 
-[![超棒的Redis客户端](https://tva1.sinaimg.cn/large/007S8ZIlly1gh2snkq7y4g30dc09fn2i.gif)](https://mp.weixin.qq.com/s/Y-M9Aq1M8xhPFnsviDNDuQ)
+[![超棒的Redis客户端](https://tva1.sinaimg.cn/large/007S8ZIlly1gh2t80zzkag30hs0ck44c.gif)](https://mp.weixin.qq.com/s/Y-M9Aq1M8xhPFnsviDNDuQ)
 
 [IntelliJ IDEA 2020.1.dmg](https://pan.baidu.com/s/1SGGiWUPzKD23EUoCvNfFGQ)（密码: ehhk）
 
@@ -104,4 +104,4 @@
 
 [CentOS 7 双重防火墙设置](https://lishaojie1993.gitee.io/2020/01/17/firewall/)
 
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1gh2sq0kxu7j30dc07pgn2.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gh2tazjaz7j30r60fo42z.jpg)
