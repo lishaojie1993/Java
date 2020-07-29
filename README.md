@@ -26,6 +26,8 @@
 
 [多线程/并发.xmind](https://lishaojie1993.gitee.io/demo/multi-thread.png)
 
+[集合.xmind](https://lishaojie1993.gitee.io/demo/Collection.png)
+
 ## 编程工具
 
 [![超棒的Redis客户端](https://imgkr.cn-bj.ufileos.com/5a820626-482d-4c2c-94aa-6f77c4ff9e21.gif)](https://mp.weixin.qq.com/s/Y-M9Aq1M8xhPFnsviDNDuQ)
@@ -99,6 +101,78 @@
 [超清壁纸推荐](https://mp.weixin.qq.com/s/2iNcQZ9Gu685NZEs3-fqLQ)
 
 [Mac屏保分享](https://mp.weixin.qq.com/s/7vbDGS3xX57SuH1S0LdLew)
+
+## 笔记整理
+
+[同步非阻塞-NIO](https://lishaojie1993.gitee.io/2020/04/03/nio/)
+
+### JVM
+
+[JVM底层原理与性能优化](https://lishaojie1993.gitee.io/2020/03/06/jvm/)
+
+[垃圾回收-GC](https://lishaojie1993.gitee.io/2020/03/04/GC/)
+
+[内存溢出-OOM](https://lishaojie1993.gitee.io/2020/03/02/OOM/)
+
+### 多线程/并发
+
+[volatile关键字解析](https://lishaojie1993.gitee.io/2019/03/15/volatile/)
+
+[Java锁的种类及原理](https://lishaojie1993.gitee.io/2020/02/29/lock/)
+
+[阻塞队列-BlockingQueue](https://lishaojie1993.gitee.io/2020/02/16/BlockingQueue/)
+
+[ConcurrentHashMap底层实现](https://lishaojie1993.gitee.io/2019/03/19/ConcurrentHashMap/)
+
+[CAS算法原理](https://lishaojie1993.gitee.io/2019/02/28/CAS/)
+
+[ReentrantLock源码解析](https://lishaojie1993.gitee.io/2020/02/23/AQS/)
+
+[并发工具类-JUC](https://lishaojie1993.gitee.io/2020/02/12/JUC/)
+
+[线程池的原理与应用](https://lishaojie1993.gitee.io/2020/02/19/Thread-Pool/)
+
+[高性能的web服务器-nginx](https://lishaojie1993.gitee.io/2020/04/06/nginx/)
+
+### 数据库
+
+[MySQL索引](https://lishaojie1993.gitee.io/2019/08/15/mysql0/)
+
+[性能分析-EXPLAIN](https://lishaojie1993.gitee.io/2019/08/14/mysql1/)
+
+[慢查询与SQL诊断](https://lishaojie1993.gitee.io/2019/08/13/mysql2/)
+
+[MySQL锁机制](https://lishaojie1993.gitee.io/2019/08/12/mysql3/)
+
+[MySQL事务与MVCC](https://lishaojie1993.gitee.io/2019/08/10/BTree/)
+
+[分库分表原理](https://lishaojie1993.gitee.io/2019/08/27/Sub-table/)
+
+### 分布式/微服务
+
+[分布式协调框架-ZooKeeper](https://lishaojie1993.gitee.io/2018/06/03/zookeeper/)
+
+[ZooKeeper分布式锁原理](https://lishaojie1993.gitee.io/2018/06/04/zk-lock/)
+
+[远程调用RPC框架-Dubbo](https://lishaojie1993.gitee.io/2019/07/29/dubbo/)
+
+[高性能NIO框架-Netty](https://lishaojie1993.gitee.io/2019/08/17/netty/)
+
+[分布式缓存-Redis](https://lishaojie1993.gitee.io/2019/10/22/redis/)
+
+[认证和鉴权-Spring Security](https://lishaojie1993.gitee.io/2019/08/21/Spring-Security/)
+
+分布式搜索引擎-ElasticSearch
+
+消息队列-RabbitMQ
+
+分布式任务调度-xxl-job
+
+[微服务-SpringCloud](https://lishaojie1993.gitee.io/2020/04/20/springcloud/)
+
+容器技术-Docker
+
+容器编排-K8S
 
 ## 经验杂谈
 
