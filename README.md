@@ -24,6 +24,8 @@
 
 [MySQL.xmind](https://lishaojie1993.gitee.io/demo/MySQL.png)
 
+[多线程/并发.xmind](https://lishaojie1993.gitee.io/demo/multi-thread.png)
+
 ## 编程工具
 
 [![超棒的Redis客户端](https://imgkr.cn-bj.ufileos.com/5a820626-482d-4c2c-94aa-6f77c4ff9e21.gif)](https://mp.weixin.qq.com/s/Y-M9Aq1M8xhPFnsviDNDuQ)
@@ -57,6 +59,8 @@
 [在线工具](https://tool.lu/)
 
 [数据结构可视化](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+
+[动图工具](https://www.soogif.com/)
 
 ## 电子书推荐
 
