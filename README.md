@@ -62,9 +62,7 @@
 
 [数据结构可视化](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
-[动图工具](https://www.soogif.com/)
-
-## 电子书推荐
+## 电子书
 
 [编程书籍分享](https://mp.weixin.qq.com/s/KtjnR_5ePJvXzciydEyDNA)
 
@@ -102,7 +100,7 @@
 
 [Mac屏保分享](https://mp.weixin.qq.com/s/7vbDGS3xX57SuH1S0LdLew)
 
-## 笔记整理
+## 学习之旅
 
 [同步非阻塞-NIO](https://lishaojie1993.gitee.io/2020/04/03/nio/)
 
@@ -164,6 +162,8 @@
 
 分布式搜索引擎-ElasticSearch
 
+分布式事务-Seata
+
 消息队列-RabbitMQ
 
 分布式任务调度-xxl-job
@@ -173,6 +173,34 @@
 容器技术-Docker
 
 容器编排-K8S
+
+## 开源项目
+
+![](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2933152523,677016530&fm=26&gp=0.jpg)
+
+### 源码
+
+[人人开源-start 6k](https://gitee.com/renrenio/renren-fast)
+
+[若依/RuoYi-start 14.8k](https://gitee.com/y_project/RuoYi)
+
+[后台管理框架-start 6.8k](https://gitee.com/thinkgem/jeesite)
+
+[商城管理平台-start 8.8k](https://gitee.com/fuyang_lipengjun/platform)
+
+[分布式秒杀系统-start 8.1k](https://gitee.com/52itstyle/spring-boot-seckill)
+
+[互联网支付系统-start 5k](https://gitee.com/roncoocom/roncoo-pay)
+
+[微服务化开发平台-start 12.8k](https://gitee.com/geek_qi/cloud-platform)
+
+[企业级微服务框架](https://gitee.com/owenwangwen/open-capacity-platform)
+
+### 在线演示
+
+[基于SpringBoot的权限管理系统](https://demo.ruoyi.vip/login)
+
+[微服务能力开放平台](http://59.110.164.254:8066/login.html)(admin/admin)
 
 ## 经验杂谈
 
