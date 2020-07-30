@@ -176,7 +176,7 @@
 
 ## 开源项目
 
-![](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2933152523,677016530&fm=26&gp=0.jpg)
+<img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2933152523,677016530&amp;fm=26&amp;gp=0.jpg" style="zoom:67%;" />
 
 ### 源码
 
